@@ -13,7 +13,7 @@ void main() {
           ),
           backgroundColor: Colors.red,
         ),
-        body: DicePage(),
+        body: const DicePage(),
       ),
     ),
   );
